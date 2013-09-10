@@ -7,4 +7,5 @@
  * To change this template use File | Settings | File Templates.
  */
 echo 'test';
-echo 'added line';
+echo 'ed line';
+echo '3';
