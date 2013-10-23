@@ -10,4 +10,4 @@ echo 'test';
 echo 'ed line';
 echo '3';
 
-p
+//p
